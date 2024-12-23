@@ -7,4 +7,4 @@ And of course, let's not forget those valuable completion certifications that sh
 Whether you're a curious mind or an ambitious professional, these thoughtfully curated resources are here to support and guide you. 
 So, don't hesitate to dive in, explore, and unlock the doors to new opportunities and skills.
 
-Let's make learning an adventure, and together, we'll conquer new horizons of knowledge and personal growth! 🌟🚀
+Let's make learning an adventure, and together, we'll conquer new horizons of knowledge and personal growth! 🌟🚀1
