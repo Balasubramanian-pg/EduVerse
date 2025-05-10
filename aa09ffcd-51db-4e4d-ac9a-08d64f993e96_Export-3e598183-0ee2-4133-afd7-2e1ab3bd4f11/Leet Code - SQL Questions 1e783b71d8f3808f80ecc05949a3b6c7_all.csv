@@ -1,0 +1,206 @@
+﻿Name,Category,Difficulty,Pattern Group,Question Link,Sub Category
+175. Combine Two Tables,Join,Easy,,https://leetcode.com/problems/combine-two-tables/,Order BY
+512. Game Play Analysis II,Subquery,Easy,,https://leetcode.com/problems/game-play-analysis-ii/,Window Function
+597. Friend Requests I Overall Acceptance Rate,Subquery,Easy,,https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate,"DISTINCT, IFNULL()"
+603. Consecutive Available Seats,Self Join,Easy,,https://leetcode.com/problems/consecutive-available-seats,Lag & Lead
+613. Shortest Distance in a Line,Self Join,Easy,,https://leetcode.com/problems/shortest-distance-in-a-line,Window Function
+1069. Product Sales Analysis II,Aggregate Function,Easy,,https://leetcode.com/problems/product-sales-analysis-ii,Group BY
+1076. Project Employess II,Subquery,Easy,,,"Count, Group BY, Having"
+"1082. Sales Analysis I ",Aggregate Function,Easy,,https://leetcode.com/problems/sales-analysis-i,Group BY
+1083. Sales Analysis II,Join,Easy,,https://leetcode.com/problems/sales-analysis-ii,"SubQuery, WHERE"
+1113. Reported Posts,Aggregate Function,Easy,,https://leetcode.com/problems/reported-posts,WHERE
+1132. Reported Posts II,CTE,Easy,,https://leetcode.com/problems/reported-posts-ii,SubQuery
+"1142. User Activity for the Past 30 Days II ",Aggregate Function,Easy,,https://leetcode.com/problems/user-activity-for-the-past-30-days-ii,"AND, WHERE"
+1173. Immediate Food Delivery I,Aggregate Function,Easy,,https://leetcode.com/problems/immediate-food-delivery-i,Round
+1241. Number of Comments per Post,Join,Easy,,https://leetcode.com/problems/number-of-comments-per-post,"Group BY, Order BY"
+"1294. Weather Type in Each Country ",Join,Easy,,https://leetcode.com/problems/weather-type-in-each-country,Case
+1303. Find the Team Size,Join,Easy,,https://leetcode.com/problems/find-the-team-size,
+http://1322.Ads Performance,,Easy,,,
+https://leetcode.com/problems/students-with-invalid-departments,Subquery,Easy,,,Left Outer Join
+1421. NPV Queries,,Easy,,https://leetcode.com/problems/npv-queries,
+"1435. Create a Session Bar Chart ",,Easy,,https://leetcode.com/problems/create-a-session-bar-chart,
+1495. Friendly Movies Streamed Last Month,Join,Easy,,https://leetcode.com/problems/friendly-movies-streamed-last-month,Row Number ()
+1511. Customer Order Frequency,Join,Easy,,https://leetcode.com/problems/customer-order-frequency,"Group BY, Having"
+1543. Fix Product Name Format,CTE,Easy,,https://leetcode.com/problems/fix-product-name-format,"Group BY, Order BY"
+1565. Unique Orders and Customers Per Month,Aggregate Function,Easy,,https://leetcode.com/problems/unique-orders-and-customers-per-month,Group BY
+1571. Warehouse Manager,Join,Easy,,https://leetcode.com/problems/warehouse-manager,Group BY
+1607. Sellers With No Sales,Conditional Select,Easy,,https://leetcode.com/problems/sellers-with-no-sales,"BETWEEN, Order BY, WHERE"
+1623. All Valid Triplets That Can Represent a Country,Join,Easy,,https://leetcode.com/problems/all-valid-triplets-that-can-represent-a-country,WHERE
+1677. Product's Worth Over Invoices,Join,Easy,,https://leetcode.com/problems/products-worth-over-invoices,"Group BY, Order BY"
+1777. Product's Price for Each Store,,Easy,,https://leetcode.com/problems/products-price-for-each-store,
+1809. Ad-Free Sessions,,Easy,,https://leetcode.com/problems/ad-free-sessions,
+1821. Find Customers With Positive Revenue this Year,Aggregate Function,Easy,,https://leetcode.com/problems/find-customers-with-positive-revenue-this-year,WHERE
+"1853. Convert Date Format ",Date Format,Easy,Date Functions,https://leetcode.com/problems/convert-date-format,WHERE
+1939. Users That Actively Request Confirmation Messages,Join,Easy,,https://leetcode.com/problems/users-that-actively-request-confirmation-messages,"DISTINCT, Group BY"
+2026. Low-Quality Problems,Aggregate Function,Easy,,https://leetcode.com/problems/low-quality-problems,"Group BY, WHERE"
+2072. The Winner University,Aggregate Function,Easy,,https://leetcode.com/problems/the-winner-university,Case
+2082. The Number of Rich Customers,Conditional Select,Easy,,https://leetcode.com/problems/the-number-of-rich-customers,WHERE
+2173. Longest Winning Streak,CTE,Easy,,https://leetcode.com/problems/longest-winning-streak,"Order BY, WHERE"
+3059. Find All Unique Email Domains,,Easy,,https://leetcode.com/problems/find-all-unique-email-domains,
+3056. Snaps Analysis,,Easy,,https://leetcode.com/problems/snaps-analysis,
+3054. Binary Tree Nodes,,Easy,,https://leetcode.com/problems/binary-tree-nodes,
+3053. Classifying Triangles by Lengths,,Easy,,https://leetcode.com/problems/classifying-triangles-by-lengths,
+3052. Maximize Items,,Easy,,https://leetcode.com/problems/maximize-items,
+3051. Find Candidates for Data Scientist Position,,Easy,,https://leetcode.com/problems/find-candidates-for-data-scientist-position,
+"2990. Loan Types ",,Easy,,https://leetcode.com/problems/loan-types,
+2989. Class Performance,,Easy,,https://leetcode.com/problems/class-performance,
+2987. Find Expensive Cities,,Easy,,https://leetcode.com/problems/find-expensive-cities,
+2985. Calculate Compressed Mean,,Easy,,https://leetcode.com/problems/calculate-compressed-mean,
+2893. Calculate Orders Within Each Interval,,Easy,,https://leetcode.com/problems/calculate-orders-within-each-interval,
+"2854. Rolling Average Steps ",,Easy,,https://leetcode.com/problems/rolling-average-steps,
+2853. Highest Salaries Difference,,Easy,,https://leetcode.com/problems/highest-salaries-difference,
+2837. Total Traveled Distance,,Easy,,https://leetcode.com/problems/total-traveled-distance,
+2701. Consecutive Transactions with Increasing Amounts,,Easy,,https://leetcode.com/problems/consecutive-transactions-with-increasing-amounts,
+2668. Find Latest Salaries,,Easy,,https://leetcode.com/problems/find-latest-salaries,
+2504. Concatenate the Name and the Profession,,Easy,,https://leetcode.com/problems/concatenate-the-name-and-the-profession,
+2480. Form a Chemical Bond,,Easy,,https://leetcode.com/problems/form-a-chemical-bond,
+2474. Customers With Strictly Increasing Purchases,,Easy,,https://leetcode.com/problems/customers-with-strictly-increasing-purchases,
+2394. Employees With Deductions,,Easy,,https://leetcode.com/problems/employees-with-deductions,
+2377. Sort the Olympic Table,,Easy,,https://leetcode.com/problems/sort-the-olympic-table,
+2339. All the Matches of the League,,Easy,,https://leetcode.com/problems/all-the-matches-of-the-league,
+2329. Product Sales Analysis V,,Easy,,https://leetcode.com/problems/product-sales-analysis-v,
+2308. Arrange Table by Gender,Window Function,Easy,,https://leetcode.com/problems/arrange-table-by-gender,"Case, Join, Order BY, Row Number ()"
+"2230. The Users That Are Eligible for Discount ",Conditional Select,Easy,,https://leetcode.com/problems/the-users-that-are-eligible-for-discount,"AND, WHERE"
+2228. Users With Two Purchases Within Seven Days,Join,Easy,,https://leetcode.com/problems/users-with-two-purchases-within-seven-days,WHERE
+2205. The Number of Users That Are Eligible for Discount,,Easy,,https://leetcode.com/problems/the-number-of-users-that-are-eligible-for-discount,
+3150. Invalid Tweets II,,Easy,,https://leetcode.com/problems/invalid-tweets-ii,
+3172. Second Day Verification,,Easy,,https://leetcode.com/problems/second-day-verification,
+3198. Find Cities in Each State,,Easy,,https://leetcode.com/problems/find-cities-in-each-state,
+3246. Premier League Table Ranking,,Easy,,https://leetcode.com/problems/premier-league-table-ranking,
+"1097. Game Play Analysis V ",Subquery,Hard,,https://leetcode.com/problems/game-play-analysis-v,Left Outer Join
+534. Game Play Analysis III,Window Function,Intermediate,,https://leetcode.com/problems/game-play-analysis-iii/,"Group BY, Self Join"
+569. Median Employee Salary,Window Function,Intermediate,,https://leetcode.com/problems/median-employee-salary/,"CTE, OR, Row Number ()"
+574. Winning Candidate,Join,Intermediate,,,"Group BY, Order BY"
+578. Get Highest Answer Rate Question,Window Function,Intermediate,,,"CTE, Limit Clause, Order BY, Partition BY"
+580.Count Student Number in Departments,Join,Intermediate,,https://leetcode.com/problems/count-student-number-in-departments,"Count, Group BY, Order BY"
+612. Shortest Distance in A Plane,Join,Intermediate,,,"Limit Clause, Order BY"
+614. Second Degree Follower,CTE,Intermediate,,https://leetcode.com/problems/second-degree-follower,"Group BY, Order BY"
+1098. Unpopular Books,Join,Intermediate,,https://leetcode.com/problems/unpopular-books,"Group BY, WHERE"
+"1077. Project Employees III ",Window Function,Intermediate,,https://leetcode.com/problems/project-employees-iii,Inner Join
+1107. New Users Daily Count,Window Function,Intermediate,,https://leetcode.com/problems/new-users-daily-count,SubQuery
+1112. Highest Grade For Each Student,Window Function,Intermediate,,https://leetcode.com/problems/highest-grade-for-each-student,Row Number ()
+1126. Active Businesses,Join,Intermediate,,https://leetcode.com/problems/active-businesses,SubQuery
+1149. Article Views II,Join,Intermediate,,https://leetcode.com/problems/article-views-ii,DISTINCT
+1205. Monthly Transactions II,CTE,Intermediate,,https://leetcode.com/problems/monthly-transactions-ii,Left Outer Join
+1212. Team Scores in Football Tournament,Join,Intermediate,,https://leetcode.com/problems/team-scores-in-football-tournament,Case
+1264. Page Recommendations,Join,Intermediate,,https://leetcode.com/problems/page-recommendations,Union
+1270. All People Report to the Given Manager,Join,Intermediate,,https://leetcode.com/problems/all-people-report-to-the-given-manager,"AND, WHERE"
+1285. Find the Start and End Number of Continuous Ranges,CTE,Intermediate,,https://leetcode.com/problems/find-the-start-and-end-number-of-continuous-ranges,"Group BY, Order BY"
+1308. Running Total for Different Genders,Aggregate Function,Intermediate,,https://leetcode.com/problems/running-total-for-different-genders,Window Function
+1355. Activity Participants,CTE,Intermediate,,https://leetcode.com/problems/activity-participants,"Group BY, WHERE"
+1364. Number of Trusted Contacts of a Customer,Join,Intermediate,,https://leetcode.com/problems/number-of-trusted-contacts-of-a-customer,Case
+1398. Customers Who Bought Products A and B but Not C,Join,Intermediate,,https://leetcode.com/problems/customers-who-bought-products-a-and-b-but-not-c,"Group BY, Having"
+1440. Evaluate a Boolean Expression,Join,Intermediate,,,Case
+1445. Apples & Oranges,Aggregate Function,Intermediate,,https://leetcode.com/problems/apples-oranges,"Case, Group BY, Order BY"
+1454. Active Users,CTE,Intermediate,,https://leetcode.com/problems/active-users,Join
+1459. Rectangles Area,Join,Intermediate,,https://leetcode.com/problems/rectangles-area,Order BY
+1468. Calculate Salaries,CTE,Intermediate,,https://leetcode.com/problems/calculate-salaries,"Case, Join"
+1501. Countries You Can Safely Invest In,CTE,Intermediate,,https://leetcode.com/problems/countries-you-can-safely-invest-in,"Join, Order BY"
+1532. The Most Recent Three Orders,CTE,Intermediate,,https://leetcode.com/problems/the-most-recent-three-orders,"Join, Order BY, WHERE"
+1549. The Most Recent Orders for Each Product,CTE,Intermediate,,https://leetcode.com/problems/the-most-recent-orders-for-each-product,"Join, Order BY, WHERE"
+1555. Bank Account Summary,Join,Intermediate,,https://leetcode.com/problems/bank-account-summary,"Case, Group BY"
+1596. The Most Frequently Ordered Products for Each Customer,CTE,Intermediate,,https://leetcode.com/problems/the-most-frequently-ordered-products-for-each-customer,"Join, Order BY"
+1613. Find the Missing IDs,CTE,Intermediate,,https://leetcode.com/problems/find-the-missing-ids,AND
+1699. Number of Calls Between Two Persons,Aggregate Function,Intermediate,,https://leetcode.com/problems/number-of-calls-between-two-persons,Group BY
+1709. Biggest Window Between Visits,Window Function,Intermediate,,https://leetcode.com/problems/biggest-window-between-visits,
+1715. Count Apples and Oranges,Aggregate Function,Intermediate,,https://leetcode.com/problems/count-apples-and-oranges,Join
+1747. Leetflex Banned Accounts,Join,Intermediate,,https://leetcode.com/problems/leetflex-banned-accounts,Self Join
+1811. Find Interview Candidates,,Intermediate,,https://leetcode.com/problems/find-interview-candidates,
+1831. Maximum Transaction Each Day,CTE,Intermediate,,https://leetcode.com/problems/maximum-transaction-each-day,
+1841. League Statistics,CTE,Intermediate,,https://leetcode.com/problems/league-statistics,"Count, Group BY"
+1843. Suspicious Bank Accounts,CTE,Intermediate,,https://leetcode.com/problems/suspicious-bank-accounts,"Group BY, Having"
+1867. Orders With Maximum Quantity Above Average,Aggregate Function,Intermediate,,https://leetcode.com/problems/orders-with-maximum-quantity-above-average,WHERE
+1875. Group Employees of the Same Salary,CTE,Intermediate,,https://leetcode.com/problems/group-employees-of-the-same-salary,"Join, WHERE"
+1949. Strong Friendship,Join,Intermediate,,https://leetcode.com/problems/strong-friendship,"Group BY, Having"
+1951. All the Pairs With the Maximum Number of Common Followers,,Intermediate,,https://leetcode.com/problems/all-the-pairs-with-the-maximum-number-of-common-followers,
+1988. Find Cutoff Score for Each School,CTE,Intermediate,,https://leetcode.com/problems/find-cutoff-score-for-each-school,"Order BY, WHERE"
+1990. Count the Number of Experiments,Aggregate Function,Intermediate,,https://leetcode.com/problems/count-the-number-of-experiments,"Cross Join, Union"
+2020. Number of Accounts That Did Not Stream,Subquery,Intermediate,,https://leetcode.com/problems/number-of-accounts-that-did-not-stream,"Having, WHERE"
+2041. Accepted Candidates From the Interviews,Join,Intermediate,,https://leetcode.com/problems/accepted-candidates-from-the-interviews,SubQuery
+2051. The Category of Each Member in the Store,CTE,Intermediate,,https://leetcode.com/problems/the-category-of-each-member-in-the-store,"Case, WITH"
+2066. Account Balance,Window Function,Intermediate,,https://leetcode.com/problems/account-balance,"Order BY, Partition BY"
+2084. Drop Type 1 Orders for Customers With Type 0 Orders,Subquery,Intermediate,,https://leetcode.com/problems/drop-type-1-orders-for-customers-with-type-0-orders,WHERE
+2112. The Airport With the Most Traffic,CTE,Intermediate,,https://leetcode.com/problems/the-airport-with-the-most-traffic,WHERE
+2142. The Number of Passengers in Each Bus I,Window Function,Intermediate,,https://leetcode.com/problems/the-number-of-passengers-in-each-bus-i,Join
+2159. Order Two Columns Independently,CTE,Intermediate,,https://leetcode.com/problems/order-two-columns-independently,Join
+2175. The Change in Global Rankings,CTE,Intermediate,,https://leetcode.com/problems/the-change-in-global-rankings,Join
+"2238. Number of Times a Driver Was a Passenger ",Conditional Select,Intermediate,,https://leetcode.com/problems/number-of-times-a-driver-was-a-passenger,"DISTINCT, Group BY, WHERE"
+2292. Products With Three or More Orders in Two Consecutive Years,Subquery,Intermediate,,https://leetcode.com/problems/products-with-three-or-more-orders-in-two-consecutive-years,"Having, Join"
+2298. Tasks Count in the Weekend,Aggregate Function,Intermediate,,https://leetcode.com/problems/tasks-count-in-the-weekend,Case
+2308. Arrange Table by Gender,,Intermediate,,https://leetcode.com/problems/arrange-table-by-gender,
+2314. The First Day of the Maximum Recorded Degree in Each City,,Intermediate,,https://leetcode.com/problems/the-first-day-of-the-maximum-recorded-degree-in-each-city,
+2324. Product Sales Analysis IV,,Intermediate,,https://leetcode.com/problems/product-sales-analysis-iv,
+,,Intermediate,,,
+3089. Find Bursty Behavior,,Intermediate,,https://leetcode.com/problems/find-bursty-behavior,
+3087. Find Trending Hashtags,,Intermediate,,https://leetcode.com/problems/find-trending-hashtags,
+3058. Friends With No Mutual Friends,,Intermediate,,https://leetcode.com/problems/friends-with-no-mutual-friends,
+3055. Top Percentile Fraud,,Intermediate,,https://leetcode.com/problems/top-percentile-fraud,
+3050. Pizza Toppings Cost Analysis,,Intermediate,,https://leetcode.com/problems/pizza-toppings-cost-analysis,
+2993. Friday Purchases I,,Intermediate,,https://leetcode.com/problems/friday-purchases-i,
+2988. Manager of the Largest Department,,Intermediate,,https://leetcode.com/problems/manager-of-the-largest-department,
+2986. Find Third Transaction,,Intermediate,,https://leetcode.com/problems/find-third-transaction,
+2978. Symmetric Coordinates,,Intermediate,,https://leetcode.com/problems/symmetric-coordinates,
+2922. Market Analysis III,,Intermediate,,https://leetcode.com/problems/market-analysis-iii,
+2820. Election Results,Window Function,Intermediate,,https://leetcode.com/problems/election-results,Group BY
+2783. Flight Occupancy and Waitlist Analysis,,Intermediate,,https://leetcode.com/problems/flight-occupancy-and-waitlist-analysis,
+2738. Count Occurrences in Text,,Intermediate,,https://leetcode.com/problems/count-occurrences-in-text,
+2388. Change Null Values in a Table to the Previous Value,,Intermediate,,https://leetcode.com/problems/change-null-values-in-a-table-to-the-previous-value,
+https://leetcode.com/problems/calculate-the-influence-of-each-salesperson,,Intermediate,,,
+2346. Compute the Rank as a Percentage,,Intermediate,,https://leetcode.com/problems/compute-the-rank-as-a-percentage,
+3118. Friday Purchase III,,Intermediate,,https://leetcode.com/problems/friday-purchase-iii,
+3126. Server Utilization Time,,Intermediate,,https://leetcode.com/problems/server-utilization-time,
+3140. Consecutive Available Seats II,,Intermediate,,https://leetcode.com/problems/consecutive-available-seats-ii,
+3166. Calculate Parking Fees and Duration,,Intermediate,,https://leetcode.com/problems/calculate-parking-fees-and-duration,
+3182. Find Top Scoring Students,,Intermediate,,https://leetcode.com/problems/find-top-scoring-students,
+3188. Find Top Scoring Students II,,Hard,,https://leetcode.com/problems/find-top-scoring-students-ii,
+3204. Bitwise User Permissions Analysis,,Intermediate,,https://leetcode.com/problems/bitwise-user-permissions-analysis,
+3214. Year on Year Growth Rate,,Hard,,https://leetcode.com/problems/year-on-year-growth-rate,
+3220. Odd and Even Transactions,,Intermediate,,https://leetcode.com/problems/odd-and-even-transactions,
+"3230. Customer Purchasing Behavior Analysis ",,Intermediate,,https://leetcode.com/problems/customer-purchasing-behavior-analysis,
+3252. Premier League Table Ranking II,,Intermediate,,https://leetcode.com/problems/premier-league-table-ranking-ii,
+3262. Find Overlapping Shifts,,Intermediate,,https://leetcode.com/problems/find-overlapping-shifts,
+3278. Find Candidates for Data Scientist Position II,,Intermediate,,https://leetcode.com/problems/find-candidates-for-data-scientist-position-ii,
+3293. Calculate Product Final Price,,Intermediate,,https://leetcode.com/problems/calculate-product-final-price,
+579. Find Cumulative Salary of an Employee,Window Function,Hard,Cumulative,https://leetcode.com/problems/find-cumulative-salary-of-an-employee,"Group BY, Order BY, WHERE"
+615. Average Salary Departments VS Company,CTE,Hard,,https://leetcode.com/problems/average-salary-departments-vs-company,SubQuery
+618. Students Report By Geography,CTE,Hard,,,"Case, SubQuery"
+1127. User Purchase Platform,,Hard,,https://leetcode.com/problems/user-purchase-platform,
+1159. Market Analysis II,Join,Hard,,https://leetcode.com/problems/market-analysis-ii,Window Function
+1194. Tournament Winners,CTE,Hard,,https://leetcode.com/problems/tournament-winners,SubQuery
+1225. Report Contiguous Dates,Window Function,Hard,,https://leetcode.com/problems/report-contiguous-dates,"Group BY, Rank()"
+1336. Number of Transactions per Visit,CTE,Hard,,https://leetcode.com/problems/number-of-transactions-per-visit,"Join, SubQuery"
+1369. Get the Second Most Recent Activity,Window Function,Hard,,https://leetcode.com/problems/get-the-second-most-recent-activity,"Count, Partition BY"
+1384. Total Sales Amount by Year,CTE,Hard,,https://leetcode.com/problems/total-sales-amount-by-year,"Join, Recrusive CTE"
+1412. Find the Quiet Students in All Exams,Window Function,Hard,,https://leetcode.com/problems/find-the-quiet-students-in-all-exams,
+1479. Sales by Day of the Week,Join,Hard,,https://leetcode.com/problems/sales-by-day-of-the-week,Case
+1635. Hopper Company Queries I,Window Function,Hard,,https://leetcode.com/problems/hopper-company-queries-i,"Join, Union"
+1645. Hopper Company Queries II,CTE,Hard,,https://leetcode.com/problems/hopper-company-queries-ii,"Group BY, Join, Order BY, WHERE"
+1651. Hopper Company Queries III,,Hard,,https://leetcode.com/problems/hopper-company-queries-iii,
+1767. Find the Subtasks That Did Not Execute,CTE,Hard,,https://leetcode.com/problems/find-the-subtasks-that-did-not-execute,Join
+1892. Page Recommendations II,CTE,Hard,,https://leetcode.com/problems/page-recommendations-ii,"Join, WHERE"
+1917. Leetcodify Friends Recommendations,CTE,Hard,,https://leetcode.com/problems/leetcodify-friends-recommendations,"DISTINCT, Left Outer Join, Union"
+1919. Leetcodify Similar Friends,Join,Hard,,https://leetcode.com/problems/leetcodify-similar-friends,"DISTINCT, Group BY, Having, WHERE"
+1972. First and Last Call On the Same Day,CTE,Hard,,https://leetcode.com/problems/first-and-last-call-on-the-same-day,WHERE
+2004. The Number of Seniors and Juniors to Join the Company,Window Function,Hard,,https://leetcode.com/problems/the-number-of-seniors-and-juniors-to-join-the-company,"CTE, Join, WHERE"
+2010. The Number of Seniors and Juniors to Join the Company II,CTE,Hard,,https://leetcode.com/problems/the-number-of-seniors-and-juniors-to-join-the-company-ii,"Having, Union, WHERE"
+2118. Build the Equation,CTE,Hard,,https://leetcode.com/problems/build-the-equation,Case
+2153. The Number of Passengers in Each Bus II,Aggregate Function,Hard,,https://leetcode.com/problems/the-number-of-passengers-in-each-bus-ii,AND
+3061. Calculate Trapping Rain Water,,Hard,,https://leetcode.com/problems/calculate-trapping-rain-water,
+3060. User Activities within Time Bounds,,Hard,,https://leetcode.com/problems/user-activities-within-time-bounds,
+"3057. Employees Project Allocation ",,Hard,,https://leetcode.com/problems/employees-project-allocation,
+2995. Viewers Turned Streamers,,Hard,,https://leetcode.com/problems/viewers-turned-streamers,
+2994. Friday Purchases II,CTE,Hard,,https://leetcode.com/problems/friday-purchases-ii,"Left Outer Join, Recrusive CTE"
+"2991. Top Three Wineries ",Join,Hard,,https://leetcode.com/problems/top-three-wineries,
+2793. Status of Flight Tickets,,Hard,,https://leetcode.com/problems/status-of-flight-tickets,
+2752. Customers with Maximum Number of Transactions on Consecutive Days,,Hard,,https://leetcode.com/problems/customers-with-maximum-number-of-transactions-on-consecutive-days,
+2720. Popularity Percentage,,Hard,,https://leetcode.com/problems/popularity-percentage,
+2494. Merge Overlapping Events in the Same Hall,,Hard,,https://leetcode.com/problems/merge-overlapping-events-in-the-same-hall,
+https://leetcode.com/problems/generate-the-invoice,,Hard,,,
+2253. Dynamic Unpivoting of a Table,Stored Procedure,Hard,,https://leetcode.com/problems/dynamic-unpivoting-of-a-table,Execute
+2252. Dynamic Pivoting of a Table,Stored Procedure,Hard,,https://leetcode.com/problems/dynamic-pivoting-of-a-table,Execute
+2199. Finding the Topic of Each Post,Join,Hard,,https://leetcode.com/problems/finding-the-topic-of-each-post,Group BY
+2984. Find Peak Calling Hours for Each City,,Hard,,https://leetcode.com/problems/find-peak-calling-hours-for-each-city,
+3103. Find Trending Hashtags II,,Hard,,https://leetcode.com/problems/find-trending-hashtags-ii,
+3156. Employee Task Duration and Concurrent Tasks,,Hard,,https://leetcode.com/problems/employee-task-duration-and-concurrent-tasks,
+3236. CEO Subordinate Hierarchy,,Hard,,https://leetcode.com/problems/ceo-subordinate-hierarchy,
+3268. Find Overlapping Shifts II,,Hard,,https://leetcode.com/problems/find-overlapping-shifts-ii,
